@@ -6,6 +6,7 @@ excludes other invaluable contributions like language bindings and text and
 video tutorials.
 
  - Bobyshev Alexander
+ - Alzathar
  - Laurent Aphecetche
  - Matt Arsenault
  - Takuro Ashie
@@ -56,7 +57,9 @@ video tutorials.
  - Bill Currie
  - Jason Daly
  - danhambleton
+ - danijel1023
  - Jarrod Davis
+ - Aaron Day
  - decce
  - Olivier Delannoy
  - Paul R. Deppe
@@ -97,6 +100,7 @@ video tutorials.
  - Andrew Gutekanst
  - Stephen Gutekanst
  - Jonathan Hale
+ - halx99
  - Daniel Hauser
  - hdf89shfdfs
  - Moritz Heinemann
@@ -180,6 +184,7 @@ video tutorials.
  - Jon Morton
  - Pierre Moulon
  - Martins Mozeiko
+ - Tomáš Mráz
  - Pascal Muetschard
  - James Murphy
  - Julian Møller
@@ -226,6 +231,7 @@ video tutorials.
  - Philip Rideout
  - Eddie Ringle
  - Max Risuhin
+ - road2react
  - Joe Roback
  - Jorge Rodriguez
  - Jari Ronkainen
@@ -233,6 +239,7 @@ video tutorials.
  - Ed Ropple
  - Aleksey Rybalkin
  - Mikko Rytkönen
+ - saikyun
  - Riku Salminen
  - Yoshinori Sano
  - Brandon Schaefer
